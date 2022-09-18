@@ -36,4 +36,4 @@ def myfun(list):
     print("Float max number is ", maxnum),
     print("List mean is ", meanval)
   
-     
+    
